@@ -1,68 +1,54 @@
-[EN](LIMITATIONS.md) | [中文](../docs/zh/LIMITATIONS.md)
+[**English**](LIMITATIONS.md) | [简体中文](../docs/zh/LIMITATIONS.md)
 
-# Limitations, ethics and future research
+# Limitations, Ethics and Future Research
 
-[Portfolio home](../README.md)
+[Home](../README.md) · [Research process](RESEARCH_PROCESS.md) · [Case comparison](CASE_COMPARISON.md) · [Evidence map](EVIDENCE_MAP.md)
 
-[Research process](RESEARCH_PROCESS.md) · [Case comparison](CASE_COMPARISON.md) · [Key insights](KEY_INSIGHTS.md) · [Evidence map](EVIDENCE_MAP.md)
+## Scope and methodological limitations
 
-## Methodological limitations
-
-| Limitation | Consequence for interpretation |
+| Limitation | Implication |
 | --- | --- |
-| Two access-based cases | This is exploratory depth, not a representative study or a controlled test of gaming categories |
-| Unequal involvement | First-hand moderation and content discussions in A differ from initially lighter involvement in B; operational claims have unequal foundations |
-| Different lifecycle stages | B was established when observation began, whereas A's account includes growth and withdrawal; this may contribute to the apparent contrast |
-| No platform analytics | Gift rankings and visible membership levels do not verify revenue, profitability, conversion or retention |
-| No verified demographics | Avatars, self-entered ages and location signals cannot confirm age, gender, income, residence or motivations |
-| Unspecified observation coverage | Dates, duration, frequency, missed sessions and record-keeping are not specified; apparent regularity cannot be quantified |
-| Timing of source records unclear | The report is available, but underlying field records were not provided; memory, selective attention and alternative explanations cannot be fully assessed |
-| Insider attachment | The author acknowledges emotional involvement in A; defending A's competence may shape explanations of withdrawal |
-| Unverified external claims | Policy changes, automation timing, wider genre economics and literature claims need separate supporting sources |
-| Limited boundary | The report concerns individual creators; it explicitly excludes direct transfer to merchant or verified commercial accounts, whose distribution conditions it describes as different but does not verify |
+| Two cases selected through existing access | Provides depth and exploratory comparison rather than representative industry findings |
+| Different observation positions | A involved hands-on moderation during growth; B involved long-term viewing of an established community and later moderator status |
+| Different community stages | A's trajectory includes growth and withdrawal, whereas B was already relatively established |
+| Limited informal viewer conversations | Offers additional perspectives without a systematically recruited interview sample |
+| No platform analytics | Public gift rankings and visible status signals do not establish revenue, profitability, retention or conversion |
+| No verified demographics | Profile images, self-reported ages and displayed locations cannot establish viewers' demographic characteristics |
+| Incomplete observation coverage | Session dates, missed streams and contemporaneous record-keeping have not been systematically documented |
+| Researcher involvement | Close involvement in A may influence how its practices and withdrawal are interpreted |
+| Contextual claims | Game updates, industry-wide trends and theoretical references require separate verification |
+| Transferability | These cases concern individual gaming creators; other types of creator and commercial accounts may operate differently |
 
-The original report argues that category is the primary determinant of creator outcomes. The portfolio preserves that explanatory emphasis while making its uncertainty explicit: these cases cannot establish causal priority, quantify each factor or rule out personal circumstances and other contextual influences.
+Game context, creator effort, operational choices, audience needs and relationship dynamics may all contribute to community trajectories. The comparison does not isolate their relative causal effects.
 
-## Theory and inference boundaries
+## Interpretation and theory
 
-Parasocial relationships and social exchange are analytical lenses used by the author, not measurements of these audiences' psychological states. The report's literature claims lack complete primary references. Its proposed cross-cultural explanation of belonging and gifting remains a future question, not evidence about cultural groups.
+Parasocial relationships, social exchange and self-presentation provide concepts for analysing viewer experiences. Observations of gifting, passive listening or community contribution offer insight into possible mechanisms; they do not reveal every viewer's motivation.
 
-The report's informal comparison with other creators, its character-based audience explanation and a single episode of supporter resilience are not systematic comparison samples. They cannot establish general rules about spending, gender, technical skill or relationship resilience.
+The hypothesis that demanding game characters attract particular paying needs is a question for further research. Visible profiles and gift badges should not be treated as verified age, gender, income or spending data.
 
-## Ethical considerations
+## Privacy and research ethics
 
-**Documented in the source:** the report states that creators and accounts were anonymised, with account identifiers, precise follower counts and identifying content titles removed. That is the documented safeguard; formal consent, ethics review or participant validation are not established.
+Creators and community members are anonymised. The public pages use paraphrased observations, omit account handles and avoid reproducing private messages or identifying viewer details. The original research report remains outside the repository.
 
-**Applied in this adaptation:** creators are referred to as Case A and Case B, and direct identifiers of creators and members are excluded. This reduces identification risk without guaranteeing anonymity. Exact broadcast times, specific character or visual-brand combinations, detailed locations, demographic profile details, searchable quotations and personal health or lifestyle speculation have been omitted or generalised. The private report has not been copied into the repository. The public [evidence map](EVIDENCE_MAP.md) contains paraphrases and section references only.
+Public relationship status and creator persona are analysed as visible features of the streaming experience, without claims about private romantic circumstances or intentions. Future interviews or publication of private exchanges would require appropriate participant consent and careful consideration of privacy.
 
-**Outstanding questions and considerations:**
+Possible spending pressure, uneven access to attention and the workload of volunteer moderators are relevant questions for future research.
 
-- **TODO:** Clarify whether observation occurred in public, member-only or private spaces, whether research activity was disclosed, and what consent or permission existed for using interactions in a portfolio.
-- **TODO:** Clarify the provenance and publication suitability of descriptions of personal follow-up and member-space replies. Do not publish private messages or identifying relationship details.
-- **TODO:** Confirm how any original records are stored, who has access and what retention arrangements actually apply.
-- **TODO:** Review whether the remaining combination of category, role and trajectory could identify either creator to insiders before publication.
+## Further research opportunities
 
-Visible profile signals are insufficient to verify whether viewers are adults. The portfolio avoids individual demographic classification. Possible spending pressure, unequal attention and voluntary moderation workload are questions for future research, not harms demonstrated in these cases. Potential implications should not turn uncertain psychological inferences into tactics for extracting more spending.
-
-## Proposed future research
-
-These are proposed activities, not completed methods or commitments.
-
-| Question or gap | Possible next step | What it would help assess |
+| Research theme | Possible next step | What it could clarify |
 | --- | --- | --- |
-| Evidence provenance | Review existing records privately and document actual observation coverage and sources | Which claims are contemporaneous, retrospective or second-hand |
-| Category-fit explanation | Observe additional contrasting or disconfirming cases, with comparable coverage and attention to lifecycle stage | Whether the explanation extends beyond this pair |
-| Quiet companionship | Voluntary interviews with active supporters and quieter viewers, with suitable consent | Whether predictable presence is valued and how selective attention is experienced |
-| Moderator status | Ask role holders about recognition, responsibilities, choice and burden | Selection effects versus perceived influence of status |
-| Payment and personalised play | Explore supporters' accounts of value, expectations and boundaries | Whether observed behaviour supports the proposed exchange mechanism |
-| Character preferences | Explore preferred play styles and experiences without inferring demographics from profiles | Whether character choice relates to desired creator services |
-| Cross-cultural direction | Consider a separate comparison of Chinese and overseas gaming communities, including settings such as Discord | Whether similar constructs are meaningful across settings; no cultural effect is assumed |
+| Viewing and companionship | Interview active chatters and background listeners | How viewers value predictable presence, playlists and direct interaction |
+| Perceived value of gifting | Interview supporters and non-paying viewers | What they expect from virtual gifts, gaming services and individual attention |
+| Persona and relationship expectations | Explore how viewers interpret publicly presented relationship status | How perceived intimacy, trust and boundaries relate to support |
+| Content–audience fit | Compare creators within the same game category | Which differences are associated with content and audience needs rather than game context |
+| Moderator status | Talk with mods about recognition, permissions and work | How social status relates to voluntary contribution and burden |
+| Character preferences | Study game roles, play styles and desired experiences | Whether character choice attracts distinct needs |
+| Evidence development | Document observation coverage and review original materials privately | Which interpretations can be supported more directly |
 
-## Unresolved documentation and publication questions
+## Conclusion
 
-- **TODO:** Provide the research period, observation duration and frequency for each case; no missing numbers will be estimated.
-- **TODO:** Describe how observations were recorded, compared and interpreted, including any counterexamples considered.
-- **TODO:** Supply verifiable primary references for the theoretical framing and a private check of game-policy and automation chronology where feasible.
-- **TODO:** Confirm whether any application or evaluation followed the original report. No product impact is documented in the supplied material.
+This exploratory study identifies questions about audience engagement, perceived value and relationship dynamics that can inform more structured user research. Its contribution is a detailed comparative account of real community practices, with clear opportunities for further investigation.
 
-The above questions limit confidence and publication readiness, but do not prevent presenting the report's observations and interpretations with clear attribution and boundaries.
+[Research process](RESEARCH_PROCESS.md) · [Key insights](KEY_INSIGHTS.md)
