@@ -29,6 +29,20 @@ My aim is to understand how creator practices, gaming and platform contexts, aud
 
 [Research process](research/RESEARCH_PROCESS.md) · [Evidence map](research/EVIDENCE_MAP.md)
 
+## Research skills and evidence
+
+This exploratory study draws on long-term community participation, observation and comparison. The links below show **what I worked on** and where the supporting research can be examined.
+
+| Research skill | What I did | Evidence |
+| --- | --- | --- |
+| **Research framing & comparative analysis** | Developed research questions from differences observed in two gaming livestream communities and compared content, routines, interaction, and community roles. | [Research process](research/RESEARCH_PROCESS.md#research-questions) · [Case comparison](research/CASE_COMPARISON.md) |
+| **Participant observation & community research** | Drew on my experience moderating a growing community and observing another over time, while distinguishing the different levels of access. | [Researcher position](research/RESEARCH_PROCESS.md#researcher-position-and-materials) · [Evidence CTX-01](research/EVIDENCE_MAP.md#ctx-01-researcher-position-and-sources) |
+| **User motivation & value analysis** | Examined different reasons for watching and gifting, including learning, background companionship, personalised gameplay, and recognition. | [Insights 01–02](research/KEY_INSIGHTS.md#01--viewing-motivations-engagement-does-not-always-mean-chatting) · [Evidence B-04](research/EVIDENCE_MAP.md#b-04-gifting-and-personalised-play) |
+| **Insight synthesis & needs-based hypotheses** | Connected observations across the two cases into findings about creator persona, audience expectations, content–audience fit, and community contributions. | [Key insights](research/KEY_INSIGHTS.md) · [Cross-case evidence S-01](research/EVIDENCE_MAP.md#s-01-cross-case-interpretation) |
+| **Research judgement & evidence evaluation** | Separated observations from interpretations and hypotheses, and identified where further interviews or behavioural data would be needed. | [Analytical approach](research/RESEARCH_PROCESS.md#analytical-approach) · [Limitations](research/LIMITATIONS.md) |
+
+**Jump to:** [Research process](research/RESEARCH_PROCESS.md) · [Case comparison](research/CASE_COMPARISON.md) · [Key insights](research/KEY_INSIGHTS.md) · [Evidence map](research/EVIDENCE_MAP.md) · [Limitations](research/LIMITATIONS.md)
+
 ## Comparing the two communities
 
 | Dimension | Case A: open-world MMO | Case B: MOBA |
