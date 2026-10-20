@@ -1,56 +1,85 @@
-[English](README.md) | [简体中文](docs/zh/README.md)
+[**English**](README.md) | [简体中文](docs/zh/README.md)
 
-# Gaming Livestream Communities
+# Gaming Livestream Communities: An Exploratory User Research Study
 
-**Independent exploratory User Research · Participant observation · Comparative case study**
+**Independent user and community research · Participant observation · Comparative case study**
 
-An exploration of audience participation, belonging and monetisation in two gaming livestream communities. One creator withdrew; the other continued to develop an established community. I examined how gaming context, creator practices and audience relationships might help explain that contrast.
+## Research background and purpose
 
-## Project overview
+Why do two gaming livestream communities develop such different operating models, audience relationships and trajectories? Beyond the creators' own skills, commitment and personal choices, how do game environments, content strategies and audience needs shape these differences?
 
-**Research question:** How do gaming categories, creator practices and community dynamics shape audience engagement and participation?
+This question grew out of my long-term involvement in two gaming livestream communities.
 
-| My contribution | Research approach |
-| --- | --- |
-| In Case A, I moderated the community and contributed to content-topic discussions. In Case B, I was a long-term observer, initially participated lightly and later became a moderator. | Participant observation, comparative case analysis and inference from visible proxy signals. The report uses parasocial relationships and social exchange as interpretive lenses; primary references remain to be verified. |
+**Case A** centred on a creator streaming a highly popular open-world MMO mobile game during its early growth. Through skilled gameplay, structured tutorials and content planning, the creator built an audience—yet eventually stepped away from livestreaming.
 
-The output is a qualitative comparison and hypotheses for further research. Product or commercial impact was not documented.
+**Case B** followed a creator in a widely played MOBA mobile game. Long, consistent streams combined skilled gameplay with a distinctive public persona, music-led companionship and personalised play with supporters, gradually building a recognisable core community.
 
-## Case comparison
+The contrast extends beyond content strategy. Viewers may come to learn, enjoy skilled play, listen to music while winding down, feel recognised or share a particular gaming experience. Virtual gifts can be connected to practical help, individual attention and social recognition. A creator's publicly presented relationship status and persona may also shape expectations of closeness and interaction.
 
-The descriptions below are reported in my original research account, rather than independently verified against raw records.
+Using an **exploratory qualitative approach**, I examine these experiences through participant observation, comparison of two cases and informal conversations with other viewers. The analysis focuses on **viewing motivations, perceived value in gifting, creator self-presentation, content–audience fit and community participation**.
 
-| Dimension | Case A | Case B |
+My aim is to understand how creator practices, gaming and platform contexts, audience needs and community relationships combine to shape the livestream experience—and to identify questions for further user research.
+
+## My role and research approach
+
+- **Case A — involved participant:** Served as a **chat moderator (mod)** during a period of rapid growth, helped maintain chat order and contributed to content-topic discussions.
+- **Case B — long-term observer and participant:** Followed streams, public content, gifting signals and community practices over time; later also received moderator status, in a role with different day-to-day expectations.
+- **Additional perspectives:** Informal conversations with viewers through everyday interactions and other social platforms.
+- **Analytical lenses:** Parasocial relationships, social exchange, self-presentation and community belonging.
+
+[Research process](research/RESEARCH_PROCESS.md) · [Evidence map](research/EVIDENCE_MAP.md)
+
+## Comparing the two communities
+
+| Dimension | Case A: open-world MMO | Case B: MOBA |
 | --- | --- | --- |
-| Gaming context | Open-world / massively multiplayer online (MMO) mobile game | Mass-market multiplayer online battle arena (MOBA) mobile game |
-| Practices described | Technical teaching, structured content, humour and active moderation | Skilled play, regular availability and personalised supporter interaction |
-| Community roles | Moderation involved practical order maintenance | Moderator status was associated with involvement and spending; some holders volunteered community work |
-| Trajectory | Withdrew; the report proposes contextual and personal explanations | Continued; visible membership and gifting signals informed interpretations of its supporter base |
+| Content value | Gameplay tutorials, difficult encounters, updates and technical guidance | Skilled play, predictable presence, music and personalised gaming experiences |
+| Streaming routine | Tutorials and challenging live play, with a schedule shaped by content and personal circumstances | Long, highly consistent streams alongside updates across accounts and platforms |
+| Viewer interaction | Gameplay questions, technical assistance and focused attention to particular supporters | Relatively restrained public-chat interaction alongside personalised supporter experiences |
+| Public persona | Skilled, humorous creator; openly in a relationship | Publicly presented as single, melancholic and lonely, alongside a music-led atmosphere |
+| Community roles | Moderator status combined recognition with practical chat-management duties | Moderator status also signalled recognition; some holders voluntarily supported the community |
+| Trajectory | Eventually withdrew amid changing game conditions and personal circumstances | Continued streaming with an established core of supporters |
 
-**Central interpretation:** creator–category fit deserves attention alongside operational skill. These two cases cannot establish that category determines success. [Read the full comparison](research/CASE_COMPARISON.md).
+[Full case comparison](research/CASE_COMPARISON.md)
 
-## Key insights
+## Five key insights
 
-- **Roles have contextual meanings.** Practical moderation in A contrasts with recognition and voluntary contribution in B. Status did not affect everyone alike.
-- **Quiet companionship may have value.** B's reported regularity and limited public-chat responses suggest an alternative to equating engagement with chat volume. Viewer motivation and retention were not verified.
-- **Personalised play made access visible.** The report links gifting with prioritised play and describes further gifting during it. Recognition causing more spending remains an interpretation.
+### 1. Viewing and continued engagement
 
-These are bounded interpretations of reported observations. [Explore the evidence, alternatives and potential implications](research/KEY_INSIGHTS.md).
+Not all viewers want the same kind of interaction. Technical learning, skilled gameplay, background music and quiet companionship can all make a stream worth returning to. Case B's sleep-friendly music and predictable presence illustrate why **lurking or listening in the background can still be meaningful participation**.
 
-## Limitations and ethics
+### 2. Gifting and perceived value
 
-Two access-based cases, unequal involvement, no platform analytics and no verified demographics limit the conclusions. Observation dates, coverage, recording practices and permissions for private-contact descriptions remain to be clarified. No interviews, formal coding procedure or measured intervention outcomes are documented.
+In both communities, supporters could receive focused attention through gameplay-related interactions. In Case B, co-playing and playing on a supporter's account were also linked to visible virtual gifting. The value perceived by viewers may include **practical gaming experiences, individual recognition and a sense of connection**.
 
-Creators are labelled Case A and Case B. Direct identifiers, exact schedules, searchable quotations and identifying visual details are excluded or generalised; identification by insiders remains a publication question. The original report stays outside this repository. [Limitations, ethics and future research](research/LIMITATIONS.md).
+### 3. Creator persona and relationship expectations
+
+Whether a creator publicly presents themselves as single or in a relationship can matter commercially. Case A openly had a partner; Case B cultivated a publicly single, melancholic image. These signals may shape expectations around closeness, boundaries and the meaning of support.
+
+### 4. Content–audience fit
+
+A focus on technically demanding, visually engaging game characters may attract viewers seeking particular forms of entertainment, help or shared play. Character choice is therefore a potential route into understanding **needs-based audience segments**.
+
+### 5. Moderator status and voluntary contribution
+
+Both communities used **moderator status** as recognition. In A, rapid audience growth also created real moderation work. In B, some status holders helped voluntarily without fixed responsibilities. Recognition, permissions and practical labour can coexist in a community role.
+
+[Read the full insights](research/KEY_INSIGHTS.md)
+
+## Limitations and future research
+
+This is an exploratory comparison of two communities observed from different positions, supplemented by informal viewer conversations. Without platform analytics or verified audience demographics, it cannot quantify retention, revenue or the causal contribution of any single factor. Further work could use semi-structured interviews, comparable creators within the same game category and behavioural data.
+
+The public portfolio anonymises creators and community members; the original research material is not published here. [Limitations and ethics](research/LIMITATIONS.md)
 
 ## Explore the research
 
-| English | 简体中文 |
-| --- | --- |
-| [Research process and framework](research/RESEARCH_PROCESS.md) | [研究过程与框架](docs/zh/RESEARCH_PROCESS.md) |
-| [Case comparison](research/CASE_COMPARISON.md) | [案例比较](docs/zh/CASE_COMPARISON.md) |
-| [Key insights](research/KEY_INSIGHTS.md) | [核心洞察](docs/zh/KEY_INSIGHTS.md) |
-| [Limitations and ethics](research/LIMITATIONS.md) | [局限与伦理](docs/zh/LIMITATIONS.md) |
-| [Evidence map](research/EVIDENCE_MAP.md) | [证据索引](docs/zh/EVIDENCE_MAP.md) |
+| Research section | English | 简体中文 |
+| --- | --- | --- |
+| Research process | [Read](research/RESEARCH_PROCESS.md) | [阅读](docs/zh/RESEARCH_PROCESS.md) |
+| Case comparison | [Read](research/CASE_COMPARISON.md) | [阅读](docs/zh/CASE_COMPARISON.md) |
+| Key insights | [Read](research/KEY_INSIGHTS.md) | [阅读](docs/zh/KEY_INSIGHTS.md) |
+| Limitations and ethics | [Read](research/LIMITATIONS.md) | [阅读](docs/zh/LIMITATIONS.md) |
+| Evidence map | [Read](research/EVIDENCE_MAP.md) | [阅读](docs/zh/EVIDENCE_MAP.md) |
 
-The [evidence map](research/EVIDENCE_MAP.md) traces anonymised paraphrases to the private report. Observation, interpretation, hypothesis and potential implication are labelled throughout. The [initial repository summary](research/SOURCE_README.md) is retained as an archive; [visual guidance](figures/README.md) explains the diagrams. Both have Chinese counterparts.
+[Earlier repository summary](research/SOURCE_README.md) · [Visual guidance](figures/README.md)
