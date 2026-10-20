@@ -1,84 +1,81 @@
-[EN](KEY_INSIGHTS.md) | [中文](../docs/zh/KEY_INSIGHTS.md)
+[**English**](KEY_INSIGHTS.md) | [简体中文](../docs/zh/KEY_INSIGHTS.md)
 
-# Key insights and potential implications
+# Key Research Insights: Engagement, Value and Relationships
 
-[Portfolio home](../README.md)
+[Home](../README.md) · [Case comparison](CASE_COMPARISON.md) · [Research process](RESEARCH_PROCESS.md) · [Evidence map](EVIDENCE_MAP.md)
 
-[Research process](RESEARCH_PROCESS.md) · [Case comparison](CASE_COMPARISON.md) · [Limitations and ethics](LIMITATIONS.md) · [Evidence map](EVIDENCE_MAP.md)
+## From creator practices to viewer experiences
 
-## Evidence and claim labels
+Two gaming livestream communities offered strikingly different ways to engage an audience. Comparing them raises a central user research question: **what makes a livestream valuable enough for people to watch, return to, participate in or support financially?**
 
-This synthesis uses the private original report as its primary source. **Reported observation** means something described there, not independently checked against raw records. **Interpretation** is an explanation of those observations. **Hypothesis** is a proposition to investigate. **Potential implication** is a proposed research or design direction developed for this portfolio, not an implemented intervention or validated business result.
+The analysis brings together five related themes, grounded in participant observation, case comparison and informal viewer conversations.
 
-## 1. Operational competence did not fully explain the different trajectories
+## 01 | Viewing motivations: engagement does not always mean chatting
 
-**Reported observation:** A combined technical teaching, humour, structured content and hands-on moderation, yet later withdrew. B continued with skilled play, regular availability and personalised supporter attention. [A-01](EVIDENCE_MAP.md#a-01-teaching-and-moderation), [A-02](EVIDENCE_MAP.md#a-02-withdrawal-and-context), [B-01](EVIDENCE_MAP.md#b-01-presentation-and-distribution), [B-02](EVIDENCE_MAP.md#b-02-availability-and-interaction), [B-03](EVIDENCE_MAP.md#b-03-personalised-contact)
+**What I observed.** In A, viewers encountered tutorials, difficult gameplay, version commentary and technical questions. During rapid audience growth, I also helped manage chat and repeated questions. B offered skilled play alongside consistent late-night streams and a sleep-friendly music atmosphere. Some viewers joined for the playlist or kept the stream on while doing something else. Public-chat responses could be limited without removing the value of that experience.
 
-**Interpretation:** the report attributes A's withdrawal to changes in the game and personal pressures, reading A's operational strengths as insufficient to offset those constraints. This attribution is not an observed causal effect. This supports examining creator–category fit alongside operational practice. The original report gives category a primary explanatory role; two unequal cases cannot determine that priority or separate it from individual circumstances.
+**Interpretation.** Learning, watching skilled play, being acknowledged and listening quietly are different user needs. A viewer who rarely chats may still value the stream as a predictable, low-pressure presence. B's long and consistent streaming hours are also a substantial creator commitment.
 
-**Hypothesis:** changes to progression, automation or social demands may alter the value of a creator's existing offer.
+**Questions for further research.** Why do viewers join and return? How do they distinguish active conversation from background listening? Is the value in the music, routine or connection to the creator?
 
-**Potential implication:** before transferring a community tactic, research audience needs and the value a creator can realistically provide in that setting. A comparative follow-up should seek cases that challenge the category explanation as well as those that fit it.
+**UX relevance.** Engagement measures should account for passive consumption and different usage contexts, not just message volume.
 
-## 2. Predictability and selective attention may support companionship
+[Evidence: A-01](EVIDENCE_MAP.md#a-01-teaching-and-moderation) · [B-02](EVIDENCE_MAP.md#b-02-availability-and-interaction)
 
-**Reported observation:** B broadcast on a regular overnight schedule and responded little to general public chat beyond gift acknowledgements. The report describes more personalised supporter contact, including follow-up around viewing routines and responses in member spaces. [B-02](EVIDENCE_MAP.md#b-02-availability-and-interaction), [B-03](EVIDENCE_MAP.md#b-03-personalised-contact)
+## 02 | Gifting and perceived value: more than skilled gameplay
 
-**Interpretation:** the researcher reads predictable presence and limited interruption as a companionship-oriented experience, with selective personal recognition. Low public-chat responsiveness need not mean low perceived value. However, the report does not document viewer interviews, and public observation alone cannot verify their habits or expectations.
+**What I observed.** A sometimes focused on a particular supporter's game account or task, offering technical attention and problem-solving. B also offered individual attention through co-playing or playing on supporters' accounts, sometimes while they watched. Continued virtual gifting was observed during some personalised gaming interactions.
 
-**Hypothesis:** some viewers may value reliable presence more than frequent public responses; others may experience selective attention as exclusion.
+**Interpretation.** Supporters may value several things simultaneously: a functional gaming experience, individual recognition, access to shared play and a sense of relationship. The same skilled performance can feel different when it is performed on a viewer's own account or in response to their request.
 
-**Potential implication:** investigate how quieter viewers and active supporters each define a valuable session before optimising for chat volume. Any scheduling proposal should consider creator workload and boundaries; there is no evidence here for recommending longer hours or round-the-clock availability.
+**Questions for further research.** What do viewers feel they receive when gifting? How do non-paying viewers experience priority given to supporters? What expectations and boundaries accompany personalised play?
 
-**Alternative explanations:** apparent regularity may reflect the observer's viewing window; limited chat responses may reflect workload or preference rather than a deliberate companionship strategy. Private-contact provenance remains a clarification point.
+**UX relevance.** Examine the value exchange and perceived fairness of premium experiences, not only the amount spent.
 
-## 3. Moderator status carried different meanings
+[Evidence: B-04](EVIDENCE_MAP.md#b-04-gifting-and-personalised-play) · [B-06](EVIDENCE_MAP.md#b-06-payment-and-profile-proxies)
 
-**Reported observation:** in A, moderation involved maintaining order and managing questions. In B, the report describes moderator status as recognition associated with involvement and spending. Some holders took on voluntary maintenance and newcomer guidance; others showed less inclination to do so. [A-01](EVIDENCE_MAP.md#a-01-teaching-and-moderation), [B-05](EVIDENCE_MAP.md#b-05-status-and-voluntary-maintenance)
+## 03 | Creator persona: relationship status can matter commercially
 
-**Interpretation:** the same role label can represent a practical responsibility, recognition or both. The report interprets some B members' actions as ownership behaviour, but status did not produce a uniform response.
+**What I observed.** A was known for technical expertise and humour and openly had a partner. B publicly presented a single, melancholic and lonely persona, supported by music, visual presentation and personalised interaction.
 
-**Hypothesis:** recognition may encourage voluntary contribution for some people. Alternatively, people already inclined to contribute may be more likely to obtain the status; the report cannot separate selection from influence.
+**Interpretation.** Whether a creator publicly appears single or in a relationship can shape some viewers' expectations of closeness, availability and relationship boundaries. These expectations may influence support and gifting behaviour. **Public relationship status is therefore a meaningful aspect of creator self-presentation and potential monetisation dynamics.** It is not necessary to assume that every aspect of the persona was intentionally manufactured.
 
-**Potential implication:** clarify whether a role confers recognition, permissions or work expectations. Research role holders' own expectations before relying on their voluntary labour. These are proposed safeguards and questions, not changes tested in the study.
+**Questions for further research.** How do viewers interpret relationship cues? How do technical admiration, companionship and romantic expectations differ? What happens when creator and viewer expectations diverge?
 
-## 4. Personalised play connected payment with recognition
+**UX relevance.** Trust, perceived intimacy and relationship boundaries belong in research on creator and fan experiences.
 
-**Reported observation:** the report describes higher-spending supporters receiving priority for shared play or play on their accounts, sometimes while they watched. It also describes supporters continuing to gift while watching that play, advance supporter contact and attention to season transitions. The account notes high displayed membership levels and gift-ranking signals. [B-04](EVIDENCE_MAP.md#b-04-gifting-and-personalised-play), [B-06](EVIDENCE_MAP.md#b-06-payment-and-profile-proxies)
+[Evidence: B-01](EVIDENCE_MAP.md#b-01-presentation-and-distribution) · [B-03](EVIDENCE_MAP.md#b-03-personalised-contact)
 
-**Interpretation:** the author reads the visible payment signals as a committed paying core, and personalised play as making recognition and access visible. The report reads a reinforcing relationship between gifting and attention through parasocial and exchange lenses. That does not establish each supporter's motives, the causal direction or a revenue effect.
+## 04 | Content–audience fit: game characters as entry points to user needs
 
-```mermaid
-flowchart LR
-    G["Reported: supporter gifts"] --> P["Reported: prioritised shared or account-based play"]
-    P --> W["Reported: supporter watches personalised play"]
-    W --> F["Reported: further gifting during play"]
-    W -.-> R["Interpretation: recognition and companionship"]
-    R -.-> F
-```
+**What I observed.** B repeatedly played a small selection of technically demanding, visually engaging characters. These choices supported skill demonstration and connected with co-playing or account-based experiences.
 
-Solid arrows summarise the reported sequence and co-occurrence, not a causal effect or a verified transaction trail. Dashed arrows show the author's proposed explanation for further gifting, not a measured reinforcement effect. The diagram does not recommend account sharing or spending incentives.
+**Interpretation.** Viewers may come to admire technical performance, seek a gaming experience they cannot easily reproduce, or hope to interact with a skilled creator. Character choice may attract people with particular needs, making it a possible basis for **needs-based segmentation**.
 
-**Hypothesis:** access and recognition may explain some gifting beyond admiration for technical skill. Enjoyment, existing relationships, visibility and other motives remain possible.
+**Questions for further research.** Which viewers prioritise entertainment, help or shared play? Do game preferences explain their needs better than demographic assumptions?
 
-**Potential implication:** investigate what supporters understand they receive and how non-paying viewers experience the same system. Any future service concept should make access expectations and spending boundaries clear; success would require evidence of participant value and potential harm, not gift volume alone.
+**UX relevance.** Start audience segmentation with motivations and use cases rather than inferring age, gender or purchasing power from profile cues.
 
-**Qualification:** the report informally contrasts B with more technically accomplished creators who appeared to have fewer visibly committed payers. This is contextual observation, not a systematic benchmark demonstrating that emotion matters more than skill.
+[Evidence: B-07](EVIDENCE_MAP.md#b-07-character-choice)
 
-## 5. Character choice and payment signals are hypothesis generators
+## 05 | Community roles: recognition, responsibility and voluntary contribution
 
-**Reported observation:** B focused on a narrow set of technically demanding, visually engaging characters. The report also describes high membership levels and gift rankings, plus profile and self-entered age signals used for audience inference. [B-06](EVIDENCE_MAP.md#b-06-payment-and-profile-proxies), [B-07](EVIDENCE_MAP.md#b-07-character-choice)
+**What I observed.** Both communities could grant moderator status to committed supporters. In A, fast-growing chat activity created a practical need for active moderation, which I helped provide. In B, not every moderator had fixed tasks, but some volunteered to welcome newcomers, encourage the creator and maintain the atmosphere.
 
-**Interpretation:** the report proposes that character choice may connect the appeal of skilled play with demand for personalised play, effectively attracting an audience with particular interests. Its proposed segment of predominantly younger female paying viewers is inferred, not verified. Claims about wider role-based purchasing patterns and publisher economics are not established by these cases.
+**Interpretation.** A **chat moderator (mod)** role can combine a visible badge, permissions, social recognition and real work. Different community needs influence how those dimensions are experienced. Some people may contribute because they feel recognised; others may receive the role because they were already active contributors.
 
-**Hypothesis:** character and play-style preferences may help explain what viewers seek from a creator, but demographic labels are not a reliable substitute for researching those needs.
+**Questions for further research.** What does moderator status mean to its holders? When does recognition encourage voluntary work? When does it create pressure?
 
-**Potential implication:** explore preferences and desired experiences through voluntary participant accounts. Do not use avatar aesthetics, account location or inferred gender or age to target spending. No validated segmentation model is claimed.
+**UX relevance.** Community role design should distinguish recognition, privileges and responsibilities.
 
-## Counterexamples and calibration
+[Evidence: A-01](EVIDENCE_MAP.md#a-01-teaching-and-moderation) · [B-05](EVIDENCE_MAP.md#b-05-status-and-voluntary-maintenance)
 
-The author explicitly questioned whether B's emotional presentation was wholly designed; ordinary personal traits may also explain it. The report describes only some moderators taking on maintenance work, and notes a single episode in which core supporters appeared resilient to criticism of ability. These qualifications matter: the report does not establish calculated intent, universal status effects or a generally more resilient emotional relationship. [B-01](EVIDENCE_MAP.md#b-01-presentation-and-distribution), [B-05](EVIDENCE_MAP.md#b-05-status-and-voluntary-maintenance), [B-08](EVIDENCE_MAP.md#b-08-response-to-criticism)
+## Synthesis
 
-## Outcome and next research decisions
+The comparison does not point to a single winning game category or creator formula. Creator skill, personal commitment, game mechanics, content choices and audience relationships work together. The user-centred question is **which needs each experience meets, and how those experiences become meaningful enough to sustain viewing, participation and financial support**.
 
-The output is a qualitative comparison and a set of bounded explanations. No product change, commercial uplift, verified retention measure or subsequent evaluation is documented. The next useful step is to clarify existing evidence provenance, then seek participant perspectives and comparable observation to challenge the hypotheses. [Future research and unresolved questions](LIMITATIONS.md#proposed-future-research)
+## Research scope
+
+The findings come from two differently observed communities and a limited number of informal viewer conversations. There are no comparable platform-level retention, revenue or demographic datasets. Further interviews, same-category comparisons and behavioural research could examine the mechanisms identified here.
+
+[Case comparison](CASE_COMPARISON.md) · [Limitations and ethics](LIMITATIONS.md)
