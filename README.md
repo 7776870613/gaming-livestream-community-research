@@ -43,6 +43,8 @@ This exploratory study draws on long-term community participation, observation a
 
 **Jump to:** [Research process](research/RESEARCH_PROCESS.md) · [Case comparison](research/CASE_COMPARISON.md) · [Key insights](research/KEY_INSIGHTS.md) · [Evidence map](research/EVIDENCE_MAP.md) · [Limitations](research/LIMITATIONS.md)
 
+---
+
 ## Comparing the two communities
 
 | Dimension | Case A: open-world MMO | Case B: MOBA |
