@@ -4,6 +4,11 @@
 
 **Independent user and community research · Participant observation · Comparative case study**
 
+**Portfolio statement**  
+I study how people engage with digital communities, what they value in different experiences, and how interaction and community roles shape participation. This project brings together first-hand community involvement, observation and comparative analysis to demonstrate research skills relevant to user and UX research.
+
+---
+
 ## Research background and purpose
 
 Why do two gaming livestream communities develop such different operating models, audience relationships and trajectories? Beyond the creators' own skills, commitment and personal choices, how do game environments, content strategies and audience needs shape these differences?
