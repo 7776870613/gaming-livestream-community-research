@@ -45,6 +45,8 @@
 
 **快速导航：** [研究过程](RESEARCH_PROCESS.md) · [案例比较](CASE_COMPARISON.md) · [核心洞察](KEY_INSIGHTS.md) · [证据索引](EVIDENCE_MAP.md) · [研究局限](LIMITATIONS.md)
 
+---
+
 ## 两个案例：不同的内容与关系经营方式
 
 | 比较维度 | 案例 A：开放世界 / MMO 手游 | 案例 B：MOBA 手游 |
