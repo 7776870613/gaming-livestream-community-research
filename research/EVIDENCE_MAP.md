@@ -1,87 +1,85 @@
-[EN](EVIDENCE_MAP.md) | [中文](../docs/zh/EVIDENCE_MAP.md)
+[**English**](EVIDENCE_MAP.md) | [简体中文](../docs/zh/EVIDENCE_MAP.md)
 
-# Evidence map
+# Evidence Map
 
-[Portfolio home](../README.md)
+[Home](../README.md) · [Research process](RESEARCH_PROCESS.md) · [Case comparison](CASE_COMPARISON.md) · [Key insights](KEY_INSIGHTS.md)
 
-[Research process](RESEARCH_PROCESS.md) · [Case comparison](CASE_COMPARISON.md) · [Key insights](KEY_INSIGHTS.md) · [Limitations and ethics](LIMITATIONS.md)
+## Evidence and interpretation
 
-## Source and status
+The following index connects observations and analytical claims to the original private case report and the researcher's account of community involvement. The public portfolio uses anonymised paraphrases rather than identifiable accounts or private conversations.
 
-The primary source is the author's original Chinese research report, supplied privately. It remains outside this repository. Section locators below refer to that report; they are not public links. The summaries are paraphrased and anonymised, not raw field records, transcripts or verbatim quotations.
+**Observation** refers to practices or events encountered by the researcher; **interpretation** refers to the proposed meaning of those observations. Evidence IDs organise the material across the portfolio.
 
-IDs were assigned for this portfolio adaptation. **Reported observation** describes the author's account; **interpretation** and **proxy inference** describe the author's reasoning. A source locator shows provenance within the report, not independent corroboration. Recommendations in the portfolio are labelled proposed implications rather than source findings.
+## CTX-01: Researcher position and sources
 
-Coverage includes the report's central argument, researcher position, theoretical lenses, both cases, comparison, limitations and future direction. The appendix's methodological self-assessment is reflected in the process and limitations pages. Identifying specifics and unsupported literature or industry generalisations are generalised, omitted or explicitly qualified; this is an analytical synthesis, not publication of the report.
+**Source:** Research background and observation position. **Type:** First-person account.
 
-## CTX-01: Researcher position
-
-**Source:** §1, research origins and observation position. **Type:** researcher self-report.
-
-A involved active moderation, order maintenance during growth and participation in content-topic discussions. B involved long-term observation from an already established stage, initially light participation and later moderator status. This supports the account of access and case selection, not equal coverage.
+In A, I served as a moderator during a period of growth, maintaining order and contributing to content-topic discussions. In B, I observed a more established community over time and later received moderator status. Informal conversations with viewers through everyday interactions and other platforms provided additional perspectives on the viewing experience. These forms of access differed across cases.
 
 ## A-01: Teaching and moderation
 
-**Source:** §3, successful early practices. **Type:** reported observations, including first-hand moderation experience.
+**Source:** Case A, early practices. **Type:** Participant observation.
 
-A offered technical guidance, challenging play, humour and structured topics covering introductory and advanced play. The report also describes version reviews, difficult encounters, balance debates and unconventional challenges as content topics. The author helped manage order and saw standard responses in use. Explanations of why these practices attracted an audience remain interpretations; no growth counts are provided.
+A combined tutorials, advanced gameplay, difficult encounters, game updates, humour and discussion-based topics. As a moderator, I helped maintain order and respond to repeated questions during busy streams. The community also used moderator status to recognise committed supporters.
 
 ## A-02: Withdrawal and context
 
-**Source:** §3, withdrawal explanation. **Type:** reported trajectory plus contextual and causal interpretation.
+**Source:** Case A, later development. **Type:** Observed trajectory and contextual interpretation.
 
-A withdrew. The report connects this with progression costs, automation, social or competitive play demands, category decline and personal pressures. Policy chronology and the relative contribution of these factors are not verified; later automation is presented by the author as supporting context, not a causal test.
+A eventually withdrew from streaming. The analysis considers progression costs, changes in game mechanics and priorities, the changing value of technical gameplay, and personal pressures as relevant contextual factors.
 
 ## B-01: Presentation and distribution
 
-**Source:** §4, persona and account strategy. **Type:** reported practices plus interpretation of intent.
+**Source:** Case B, persona and content practices. **Type:** Observation and interpretation.
 
-B combined skilled play with emotional and visual presentation, separate gameplay and appearance-oriented accounts, and short updates. The report also describes content reuse and continuing short updates, interpreting these as maintaining visibility with lower acquisition effort; no acquisition metrics are supplied. The author questioned whether the emotional presentation was entirely deliberate. Specific stylistic combinations and personal speculation are omitted for privacy.
+B combined skilled gameplay with persona-focused content across accounts and short-form updates. B publicly presented a single, melancholic and lonely image, while A openly had a partner. Public relationship cues may shape viewer expectations; their effects on spending and the creator's intentions remain research questions.
 
 ## B-02: Availability and interaction
 
-**Source:** §4, engagement mechanisms. **Type:** reported observation plus habit and companionship interpretation.
+**Source:** Case B, streaming routine and viewer engagement. **Type:** Observation and interpretation.
 
-B reportedly maintained a regular overnight schedule and offered few responses to general chat beyond gift acknowledgements. The report interprets this as dependable, relatively low-interruption companionship. The report also interprets scheduling as avoiding competition with larger creators; that effect is not verified. Exact times and location are withheld, and regularity, retention and viewer habits have not been independently measured.
+B maintained long, consistent late-night streams, with relatively restrained public-chat responses. The stream also emphasised music and winding down before sleep. Some viewers joined for the playlist or listened in the background. These observations support analysis of low-pressure companionship.
 
 ## B-03: Personalised contact
 
-**Source:** §4, routine-aware relationship maintenance. **Type:** reported practice; access route requires clarification.
+**Source:** Case B, relationship practices. **Type:** Observed practices and interpretation.
 
-The report describes supporter contact around viewing routines, personal responses and member-space replies. This supports the author's account of selective relationship maintenance, but not a verified profile of all supporters. It is unclear which descriptions derive from direct participation, public observation or other access; private communications are not reproduced.
+B offered individual responses and contact with some supporters, including attention to their viewing routines. The analysis considers how this may contribute to recognition and relationship expectations. Identifying private communications are not reproduced.
 
 ## B-04: Gifting and personalised play
 
-**Source:** §4, payment incentives. **Type:** reported interaction sequence plus exchange interpretation.
+**Source:** Case B, gifting-related interaction. **Type:** Observed practices and interpretation.
 
-Higher-spending supporters reportedly received priority for shared play or play on their accounts, sometimes while watching. The account also describes continued gifting while watching that play, advance contact and seasonal timing. Continued gifting is a reported occurrence; recognition or companionship causing it is an interpretation, without supplied transaction records, causal testing or verified revenue.
+Some committed supporters were prioritised for co-playing or gameplay on their accounts, at times while they watched. Continued gifting also occurred during some of these experiences. This connects virtual gifts with personalised gaming experiences and perceived recognition.
 
 ## B-05: Status and voluntary maintenance
 
-**Source:** §4, identity hierarchy and ownership behaviour; contrasted with §3. **Type:** reported practices and variation, plus interpretation.
+**Source:** Case B, community status; compared with Case A. **Type:** Participant observation and interpretation.
 
-In B, moderator status was associated with involvement and spending and functioned as recognition. Some holders voluntarily maintained the atmosphere or guided newcomers, while others showed less inclination to contribute. The report contrasts this with A's practical moderation work. Whether status caused contribution or recognised existing contributors is unresolved.
+Moderator status could recognise committed supporters in both communities. A's growth also required hands-on moderation; in B, some moderators voluntarily supported the atmosphere and welcomed newcomers without fixed tasks. The relationship between status and contribution is a topic for further study.
 
-## B-06: Payment and profile proxies
+## B-06: Payment and profile signals
 
-**Source:** §4, depth of payment and audience inference. **Type:** visible signals, proxy inference and informal comparison.
+**Source:** Case B, gifting and visible profiles. **Type:** Publicly visible signals and exploratory inference.
 
-Gift rankings and membership levels suggested a committed paying core. Profile presentation, self-entered ages and location signals informed an unverified inference that paying viewers were mainly younger women. The report also describes apparent viewing-only secondary accounts; this further limits identity inference and does not establish why those accounts were used. These signals do not verify demographics, motivations or spending totals. The report's informal comparison with more technically accomplished creators does not establish a general relationship between skill and payment.
+Gift rankings and visible status levels suggested a core of committed supporters. Profile pictures, self-reported ages and location indicators are not reliable measures of gender, age, income, residence or actual spending.
 
 ## B-07: Character choice
 
-**Source:** §4, character choice as an audience filter. **Type:** reported play focus plus broader interpretation.
+**Source:** Case B, game character preferences. **Type:** Observation and hypothesis.
 
-B focused on technically demanding, visually engaging characters. The author connects this with audience appeal and potential demand for personalised play. Claims about wider role-based spending patterns and publisher economics lack sufficient evidence here and remain hypotheses or claims requiring verification.
+B focused on technically demanding, visually engaging characters. Their appeal may be related to admiration of skilled play and demand for shared or personalised gaming experiences. This is a possible needs-based audience distinction.
 
-## B-08: Response to criticism
+## B-08: Responses to criticism
 
-**Source:** §6, resilience limitation. **Type:** single reported observation and tentative interpretation.
+**Source:** Case B, community responses. **Type:** Specific observed episode.
 
-The author describes core supporters remaining committed during criticism of ability. The report explicitly limits this to a single observation. It cannot establish that emotional relationships generally withstand criticism better than trust in skill.
+In one observed episode, core supporters appeared to remain committed despite criticism of the creator's technical ability. The episode provides context for thinking about relationship-based support, rather than a general rule about loyalty.
 
-## S-01: Category-level explanation
+## S-01: Cross-case interpretation
 
-**Source:** §2, theory; §5, comparison and conclusion; §6, boundaries. **Type:** explanatory synthesis, not causal finding.
+**Source:** Comparative analysis of both cases. **Type:** Analytical synthesis.
 
-The report argues that gaming category shapes creator value, audience expectations, status systems and monetisation, with operations optimising within those constraints. It contrasts technical versus spending-based value and livestream versus video opportunity, and proposes poor transferability of B's practices to A's context. Demographic contrasts, genre-wide economic claims and causal priority are unverified. Parasocial and exchange lenses organise the argument; primary references are missing. Cross-cultural claims are treated as future questions. The stated boundary is individual creator accounts, not merchant or verified commercial accounts.
+The gaming environment shapes the opportunities for content and interaction, while creator skill, consistency, personal choices, community recognition and audience needs also matter. The two cases suggest ways these factors may combine to shape viewing, participation and gifting.
+
+[Limitations and ethics](LIMITATIONS.md) · [Return home](../README.md)
