@@ -5,7 +5,7 @@
 **Independent user and community research · Participant observation · Comparative case study**
 
 **Portfolio statement**  
-I study how people engage with digital communities, what they value in different experiences, and how interaction and community roles shape participation. This project brings together first-hand community involvement, observation and comparative analysis to demonstrate research skills relevant to user and UX research.
+I study how people engage with digital communities, what they value in different experiences, and how interaction and community roles shape participation. This project applies [participant observation](research/RESEARCH_PROCESS.md#researcher-position-and-materials), [cross-case analysis](research/CASE_COMPARISON.md), [user motivation and perceived-value analysis](research/KEY_INSIGHTS.md#01--viewing-motivations-engagement-does-not-always-mean-chatting), [insight synthesis](research/KEY_INSIGHTS.md#synthesis), and [evidence evaluation](research/EVIDENCE_MAP.md#evidence-and-interpretation).
 
 ---
 
