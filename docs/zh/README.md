@@ -110,3 +110,10 @@
 | 证据索引 | [证据索引](EVIDENCE_MAP.md) | [Evidence map](../../research/EVIDENCE_MAP.md) |
 
 [原始仓库摘要](SOURCE_README.md) · [视觉说明](FIGURES.md)
+
+---
+
+## 其他研究
+
+- [质性研究作品集](https://github.com/Fenty-zhao/qualitative-research-portfolio/blob/main/docs/zh/README.md) — 半结构式访谈、质性编码与主题分析
+- [定量研究作品集](https://github.com/Fenty-zhao/quantitative-research-portfolio) — 定量课程研究与统计建模
