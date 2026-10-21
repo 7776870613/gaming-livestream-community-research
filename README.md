@@ -104,3 +104,10 @@ The public portfolio anonymises creators and community members; the original res
 | Evidence map | [Read](research/EVIDENCE_MAP.md) | [阅读](docs/zh/EVIDENCE_MAP.md) |
 
 [Earlier repository summary](research/SOURCE_README.md) · [Visual guidance](figures/README.md)
+
+---
+
+## Other research
+
+- [Qualitative Research Portfolio](https://github.com/Fenty-zhao/qualitative-research-portfolio) — semi-structured interviewing, coding and thematic analysis
+- [Quantitative Research Portfolio](https://github.com/Fenty-zhao/quantitative-research-portfolio) — quantitative coursework and statistical modelling
