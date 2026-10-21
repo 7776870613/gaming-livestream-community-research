@@ -91,17 +91,7 @@ Both communities used **moderator status** as recognition. In A, rapid audience 
 
 This is an exploratory comparison of two communities observed from different positions, supplemented by informal viewer conversations. Without platform analytics or verified audience demographics, it cannot quantify retention, revenue or the causal contribution of any single factor. Further work could use semi-structured interviews, comparable creators within the same game category and behavioural data.
 
-[Read the full limitations and ethics discussion](research/LIMITATIONS.md).
-
-## Research ethics & anonymisation
-
-The public case study refers to the creators as **Case A** and **Case B**. I remove account names and handles, identifying viewer details and searchable quotations, and use paraphrased observations instead of reproducing private conversations. The original research report and private material are not uploaded.
-
-Because community contexts can still make individuals recognisable, anonymisation **reduces rather than eliminates** identification risk. I distinguish publicly visible behaviour from interpretations of people's motives or private lives. Informal viewer conversations are not presented as consented research interviews; no formal ethics approval or participant consent is claimed.
-
-[Read the detailed privacy and ethics notes →](research/LIMITATIONS.md#privacy-and-research-ethics)
-
----
+The public portfolio anonymises creators and community members; the original research material is not published here. [Limitations and ethics](research/LIMITATIONS.md)
 
 ## Explore the research
 
@@ -121,3 +111,7 @@ Because community contexts can still make individuals recognisable, anonymisatio
 
 - [Qualitative Research Portfolio](https://github.com/Fenty-zhao/qualitative-research-portfolio) — semi-structured interviewing, coding and thematic analysis
 - [Quantitative Research Portfolio](https://github.com/Fenty-zhao/quantitative-research-portfolio) — quantitative coursework and statistical modelling
+
+## Ethics & transparency
+
+Creators and community members are referred to anonymously as Case A, Case B and generalised viewer descriptions. The portfolio uses paraphrased observations rather than identifiable quotes, account handles or private messages; the original research material is not published here. These measures reduce identification risk but cannot guarantee complete anonymity. Informal conversations are not presented as formally consented interviews. [Detailed ethics notes](research/LIMITATIONS.md#privacy-and-research-ethics).
